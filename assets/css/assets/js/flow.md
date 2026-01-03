@@ -1,0 +1,8 @@
+- User chọn nền tảng
+- Chọn dịch vụ
+- Chọn server
+- Nhập link + số lượng
+- Hệ thống tính tiền
+- Trừ tiền
+- Tạo đơn trạng thái "Chờ xử lý"
+- Admin xử lý thủ công
